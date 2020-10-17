@@ -61,7 +61,7 @@ function passwordOptions() {
   if(isNaN (length)) {
   alert("Password length must be a number")
   }
-  if((numericalCharacters < 8) || (numericalCharacters > 128)){
+  if((length < 8) || (length > 128)){
     alert("Password must be between 8 and 128 characters");
   }
   //prompt user for inputs to create password
