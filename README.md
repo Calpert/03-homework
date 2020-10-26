@@ -10,3 +10,7 @@ Then we take the object created through function to return passwordSelections.
 Then finally, added an event listener to generate the button.
 
 Built with: HTML and JavaScript
+
+ https://calpert.github.io/03-homework/index.html
+
+<img width="1001" alt="Screen Shot 2020-10-26 at 1 33 05 PM" src="https://user-images.githubusercontent.com/68295354/97213631-e08c8600-178f-11eb-8a6b-50d6a86b8a73.png">
